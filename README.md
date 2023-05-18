@@ -1,6 +1,5 @@
 # pythontools
-Liste de survie python pour Guillaume
-
+Liste de survie python pour G.
 ## Prologue
 Attention, beaucoup de code qui traine en python a été élaboré dans un contexte de data science: des proofs of concept linéaire, dans un notebook, sans tests, non réutilisable, développé au plus vite pour un besoin spécifique. C'est a l'opposé des pratiques et de la qualité utilisé pour dev software "normal" (du reste de la communauté).
 
