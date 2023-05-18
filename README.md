@@ -16,7 +16,7 @@ Attention, beaucoup de code qui traine en python a été élaboré dans un conte
 * https://jupyter.org/ (les notebook sont supportés en direct dans VSCode)
 * https://jupyterlab.readthedocs.io/en/latest/ Jupyter Lab
 
-## Gestion d'environnement virtuel (indispensable pour évident le "dependency hell")
+## Gestion d'environnement virtuel (indispensable pour éviter le "dependency hell")
 * https://pypi.org/project/pip/ Le gestionnaire de package de base 
 * https://github.com/pyenv/pyenv Gestionnaire d'environnement virtuel python 
 * https://docs.conda.io/en/latest/Gestionnaire d'environnement datascience 
