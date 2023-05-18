@@ -1,7 +1,9 @@
 # pythontools
 Liste de survie python pour G.
-## Prologue
-Attention, beaucoup de code qui traine en python a été élaboré dans un contexte de data science: des proofs of concept linéaire, dans un notebook, sans tests, non réutilisable, développé au plus vite pour un besoin spécifique. C'est a l'opposé des pratiques et de la qualité utilisé pour dev software "normal" (du reste de la communauté).
+## Prologue Warning
+* Beaucoup de code qui traine en python a été élaboré dans un contexte "data science" des proofs of concept linéaires, dans un notebook, sans tests, non réutilisable, développé au plus vite pour un besoin spécifique. C'est a l'opposé des pratiques et de la qualité utilisé pour dev software "normal" (qui doit être "fiable" et maintenable)
+* Le language et ses librairies ont pas mal évolué au cours du temps, se méfier des snippets de code "ancien" plus que dans les autres languages.
+* Il y a des problèmes de sécurité associé aux package pip, il y a un phenomene de "squatting" de nom, il faut bien vérifier qu'on installe le bon package de référence et pas une merde avec des backdoor à la place avec nom approchant.
 
 ## Général
 * https://survey.stackoverflow.co/2022/#technology Un overview de ce qui est à la mode dans toutes les technos
