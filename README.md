@@ -18,7 +18,7 @@ Liste de survie python pour Guillaume
 * https://github.com/pyenv/pyenv Gestionnaire d'environnement virtuel python 
 * https://docs.conda.io/en/latest/Gestionnaire d'environnement datascience 
 
-##LIBRAIRIES
+## LIBRAIRIES
 * https://www.sqlalchemy.org/ Pour utiliser des bases de données depuis python
 * https://scikit-learn.org Machine learning (hors NLP/NN)
 * https://pandas.pydata.org/ Manipulation de data
